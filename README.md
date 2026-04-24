@@ -7,7 +7,7 @@
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red?logo=pytorch)](https://pytorch.org/)
-[![Qwen Code](https://img.shields.io/badge/AI%20辅助-Qwen%20Code-purple)](https://chat.qwen.ai/)
+[![Qwen Code](https://img.shields.io/badge/AI%20辅助-Qwen%20Code智能体-purple)](https://chat.qwen.ai/)
 
 **上海交通大学医学院医学技术学院 教材配套开源代码仓库**
 
