@@ -1,9 +1,7 @@
 
 <div align="center">
 
-# 📖 医学AI编程基础：原理与实践
-
-**Fundamentals of Medical AI Programming: Principles and Practice**
+# 📖 《智能影像技术》课程教学资源与智能体
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -20,9 +18,9 @@
 
 ## 📌 简介
 
-本仓库为上海交通大学医学院医学技术学院教材《**医学AI编程基础：原理与实践**》的配套开源代码库，收录全书 **8 章**的 Jupyter Notebook 交互式实践代码（`.ipynb`）及所用医学数据集索引。
+本仓库为上海交通大学医学院医学技术学院《智能影像技术》课程教学资源与智能体的配套开源代码库，收录全书 **8 章**的 Jupyter Notebook 交互式实践代码（`.ipynb`）及所用医学数据集索引。
 
-教材面向**医学技术专业研究生**，聚焦医学AI核心痛点，系统整合「**AI基础原理 — Python编程实现 — 医学场景应用**」三位一体，是国内首本专为医学技术专业研究生量身打造的医学AI编程主体教材。
+面向**医学技术专业研究生**，聚焦医学AI核心痛点，系统整合「**AI基础原理 — Python编程实现 — 医学场景应用**」三位一体。
 
 > 📢 **本仓库所有代码均可一键运行**，无需额外配置，克隆仓库后按照环境说明安装依赖即可直接执行全书各章节 `.ipynb` 文件。
 
