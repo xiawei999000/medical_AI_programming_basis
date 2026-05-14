@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# 📖 《智能影像技术》课程教学资源与智能体
+# 📖 《医学AI编程基础：原理与实践》
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
@@ -18,7 +18,7 @@
 
 ## 📌 简介
 
-本仓库为上海交通大学医学院医学技术学院《智能影像技术》课程教学资源与智能体的配套开源代码库，收录全书 **8 章**的 Jupyter Notebook 交互式实践代码（`.ipynb`）及所用医学数据集索引。
+本仓库为上海交通大学医学院医学技术学院《AI编程基础》、《智能影像技术》课程教学资源与智能体的配套开源代码库，收录全书 **8 章**的 Jupyter Notebook 交互式实践代码（`.ipynb`）及所用医学数据集索引。
 
 面向**医学技术专业研究生**，聚焦医学AI核心痛点，系统整合「**AI基础原理 — Python编程实现 — 医学场景应用**」三位一体。
 
